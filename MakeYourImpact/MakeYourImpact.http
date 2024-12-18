@@ -1,0 +1,6 @@
+@MakeYourImpact_HostAddress = http://localhost:5261
+
+GET {{MakeYourImpact_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
